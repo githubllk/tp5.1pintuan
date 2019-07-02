@@ -1,0 +1,3649 @@
+---------------------------------------------------------------
+[2019-05-13T10:05:36+08:00] 127.0.0.1 GET www.mianadmin.net/
+[运行时间：0.058004s] [吞吐率：17.24req/s] [内存消耗：1,426.80kb] [文件加载：65]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T10:05:36+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,464.41kb] [文件加载：67]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T10:05:36+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.039003s] [吞吐率：25.64req/s] [内存消耗：1,561.95kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:06:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.043002s] [吞吐率：23.25req/s] [内存消耗：1,561.95kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:09:26+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,561.95kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:09:31+08:00] 127.0.0.1 POST www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.257014s] [吞吐率：3.89req/s] [内存消耗：2,669.45kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.mianadmin.net',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '75',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+  'login' => 
+  array (
+    'user_name' => 'admin',
+    'password' => '123456',
+    'type' => 'login',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T10:09:33+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.219013s] [吞吐率：4.57req/s] [内存消耗：3,513.28kb] [文件加载：103]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:09:39+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:11:18+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/user/index.html
+[运行时间：0.102006s] [吞吐率：9.80req/s] [内存消耗：3,115.71kb] [文件加载：96]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\user\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'page',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:20+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/item/index.html
+[运行时间：0.125007s] [吞吐率：8.00req/s] [内存消耗：3,246.27kb] [文件加载：100]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/user/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\item\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'catgory',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:21+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/item/edit.html
+[运行时间：0.129008s] [吞吐率：7.75req/s] [内存消耗：3,210.21kb] [文件加载：97]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/item/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\item\edit.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'goodsInfo',
+  8 => 'itemType',
+  9 => 'brandList',
+  10 => 'delivery',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:21+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/css/goods.css.map
+[运行时间：0.030001s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:11:21+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/item/getJsTree.html
+[运行时间：0.076004s] [吞吐率：13.16req/s] [内存消耗：2,812.29kb] [文件加载：90]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/item/edit.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T10:11:23+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/order/deliverylist.html
+[运行时间：0.113007s] [吞吐率：8.85req/s] [内存消耗：3,360.91kb] [文件加载：102]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/item/edit.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\order\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'title',
+  8 => 'dataType',
+  9 => 'list',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:24+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/market/coupon.html
+[运行时间：0.105006s] [吞吐率：9.52req/s] [内存消耗：3,097.41kb] [文件加载：96]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/order/deliverylist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\market\coupon\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:27+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/app/setting.html
+[运行时间：0.098006s] [吞吐率：10.20req/s] [内存消耗：2,889.10kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/market/coupon.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\app\setting.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'app',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:28+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/tpl/index.html
+[运行时间：0.103005s] [吞吐率：9.71req/s] [内存消耗：3,045.88kb] [文件加载：94]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/app/setting.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\tpl\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:31+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/tpl/category.html
+[运行时间：0.104006s] [吞吐率：9.61req/s] [内存消耗：2,895.83kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/tpl/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\tpl\category.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'model',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:32+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/tpl/links.html
+[运行时间：0.097005s] [吞吐率：10.31req/s] [内存消耗：2,948.02kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/tpl/category.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\tpl\links.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:36+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/auth/userindex.html
+[运行时间：0.105006s] [吞吐率：9.52req/s] [内存消耗：3,060.36kb] [文件加载：95]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/tpl/links.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\auth\user\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'page',
+  9 => 'tatal',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:38+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/index.html
+[运行时间：0.097006s] [吞吐率：10.31req/s] [内存消耗：3,142.66kb] [文件加载：92]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/auth/userindex.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\store.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'values',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:40+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/delivery.html
+[运行时间：0.105006s] [吞吐率：9.52req/s] [内存消耗：3,139.03kb] [文件加载：97]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\delivery\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:41+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/express.html
+[运行时间：0.100005s] [吞吐率：10.00req/s] [内存消耗：3,120.49kb] [文件加载：96]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/delivery.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\express\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:42+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/qrcode.html
+[运行时间：0.104006s] [吞吐率：9.61req/s] [内存消耗：3,077.59kb] [文件加载：92]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/express.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\poster.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:44+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/agent.html
+[运行时间：0.127007s] [吞吐率：7.87req/s] [内存消耗：3,110.87kb] [文件加载：92]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/qrcode.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\agent.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:45+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/qrcode.html
+[运行时间：0.087005s] [吞吐率：11.49req/s] [内存消耗：2,862.80kb] [文件加载：90]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/agent.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\poster.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:52+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/clear.html
+[运行时间：0.091005s] [吞吐率：10.99req/s] [内存消耗：2,924.82kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/qrcode.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\clear.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'cacheList',
+  8 => 'isForce',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:54+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/setting/qrcode.html
+[运行时间：0.095005s] [吞吐率：10.53req/s] [内存消耗：2,862.80kb] [文件加载：90]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/clear.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\setting\poster.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:55+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/item/index.html
+[运行时间：0.115007s] [吞吐率：8.70req/s] [内存消耗：3,105.23kb] [文件加载：98]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/setting/qrcode.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\item\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'catgory',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:57+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.194011s] [吞吐率：5.15req/s] [内存消耗：3,359.41kb] [文件加载：101]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/item/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:11:57+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:12:39+08:00] 127.0.0.1 POST www.mianadmin.net/index.php?s=/user/index/update.html
+[运行时间：0.261015s] [吞吐率：3.83req/s] [内存消耗：2,924.62kb] [文件加载：96]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.mianadmin.net',
+  'accept' => '*/*',
+  'content-length' => '2',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [2]file_get_contents(http://day.iirr5.com/index.php/Home/Index/updata?a=update&amp;v=1.0.6&amp;u=http%3A%2F%2Fwww.mianadmin.net%2Findex.php): failed to open stream: Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?[E:\WWW\mianadmin\application\user\controller\Index.php:63]
+---------------------------------------------------------------
+[2019-05-13T10:13:44+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/user/index.html
+[运行时间：0.092005s] [吞吐率：10.87req/s] [内存消耗：2,978.09kb] [文件加载：94]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\user\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'page',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:15:00+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.201012s] [吞吐率：4.97req/s] [内存消耗：3,359.41kb] [文件加载：101]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/user/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:15:01+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:44:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/logout.html
+[运行时间：0.127007s] [吞吐率：7.87req/s] [内存消耗：2,763.72kb] [文件加载：90]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T10:44:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.041002s] [吞吐率：24.39req/s] [内存消耗：1,562.12kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:44:07+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:44:09+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.040002s] [吞吐率：25.00req/s] [内存消耗：1,444.61kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:44:09+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:44:43+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.047002s] [吞吐率：21.28req/s] [内存消耗：1,444.91kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:44:44+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:45:02+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.040002s] [吞吐率：25.00req/s] [内存消耗：1,444.61kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:45:02+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:45:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.045003s] [吞吐率：22.22req/s] [内存消耗：1,444.61kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:45:08+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:45:57+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.045002s] [吞吐率：22.22req/s] [内存消耗：1,444.91kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:45:57+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:46:11+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.045002s] [吞吐率：22.22req/s] [内存消耗：1,444.61kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:11+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:46:31+08:00] 127.0.0.1 GET www.mianadmin.net/
+[运行时间：0.042002s] [吞吐率：23.81req/s] [内存消耗：1,426.96kb] [文件加载：65]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T10:46:31+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,464.45kb] [文件加载：67]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-05-13T10:46:31+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,443.98kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:35+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.046003s] [吞吐率：21.74req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:46+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.047003s] [吞吐率：21.28req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:47+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:48+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.042002s] [吞吐率：23.81req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:46:53+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.048003s] [吞吐率：20.83req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:47:08+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.041002s] [吞吐率：24.39req/s] [内存消耗：1,444.38kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:47:14+08:00] 127.0.0.1 POST www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.102006s] [吞吐率：9.80req/s] [内存消耗：2,669.45kb] [文件加载：91]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.mianadmin.net',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '75',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+  'login' => 
+  array (
+    'user_name' => 'admin',
+    'password' => '123456',
+    'type' => 'login',
+  ),
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-05-13T10:47:16+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.191011s] [吞吐率：5.24req/s] [内存消耗：3,359.41kb] [文件加载：101]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:47:20+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/user/index.html
+[运行时间：0.105006s] [吞吐率：9.52req/s] [内存消耗：2,978.09kb] [文件加载：94]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\user\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'list',
+  8 => 'page',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:47:22+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.200012s] [吞吐率：5.00req/s] [内存消耗：3,359.41kb] [文件加载：101]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/user/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:47:59+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:48:36+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:48:36+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:48:37+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,780.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:48:37+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:48:50+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052003s] [吞吐率：19.23req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:48:50+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:53:52+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:53:52+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:54:58+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.060003s] [吞吐率：16.67req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:54:58+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:55:26+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.058003s] [吞吐率：17.24req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:55:26+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:55:44+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.059003s] [吞吐率：16.95req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:55:44+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:56:46+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.059003s] [吞吐率：16.95req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:56:46+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:56:48+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.058003s] [吞吐率：17.24req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:56:48+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:57:53+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.055003s] [吞吐率：18.18req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:57:53+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:58:15+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:58:15+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:58:47+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.059003s] [吞吐率：16.95req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:58:47+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:59:03+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:59:03+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:59:38+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.061004s] [吞吐率：16.39req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:59:38+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.037002s] [吞吐率：27.03req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T10:59:39+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/index/index.html
+[运行时间：0.233013s] [吞吐率：4.29req/s] [内存消耗：3,360.02kb] [文件加载：101]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/user/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\index\index.html [ array (
+  0 => 'base_url',
+  1 => 'store_url',
+  2 => 'group',
+  3 => 'url',
+  4 => 'menu',
+  5 => 'store',
+  6 => 'request',
+  7 => 'data',
+  8 => 'version',
+  9 => 'log',
+) ]
+---------------------------------------------------------------
+[2019-05-13T10:59:40+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:00:58+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:00:58+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:01:00+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.048003s] [吞吐率：20.83req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:01:00+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.037002s] [吞吐率：27.03req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:03:35+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.049003s] [吞吐率：20.41req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:03:36+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:03:37+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.051003s] [吞吐率：19.61req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:03:37+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.029001s] [吞吐率：34.48req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:03:58+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.067004s] [吞吐率：14.92req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:03:58+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:04:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:04:07+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:04:07+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:04:08+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:04:12+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.055003s] [吞吐率：18.18req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:04:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:04:34+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.059003s] [吞吐率：16.95req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:04:34+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032001s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:04:36+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:04:36+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.039002s] [吞吐率：25.64req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:05:12+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052003s] [吞吐率：19.23req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:05:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:05:20+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.047003s] [吞吐率：21.28req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:05:20+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:07:21+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052002s] [吞吐率：19.23req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:07:21+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:07:56+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.064003s] [吞吐率：15.62req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:07:56+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:08:19+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.048002s] [吞吐率：20.83req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:08:19+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:08:20+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.055004s] [吞吐率：18.18req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:08:20+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:08:32+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.059004s] [吞吐率：16.95req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:08:32+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:09:15+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:09:15+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:09:19+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.066004s] [吞吐率：15.15req/s] [内存消耗：1,780.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:09:20+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:09:33+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.064003s] [吞吐率：15.62req/s] [内存消耗：1,898.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:09:33+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:13:38+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.060004s] [吞吐率：16.67req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:13:38+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:13:39+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:13:39+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:13:50+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.066004s] [吞吐率：15.15req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:13:51+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:13:52+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:13:52+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:14:37+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:14:37+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:14:38+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:14:38+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:14:47+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.064004s] [吞吐率：15.62req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:14:47+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:15:26+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052003s] [吞吐率：19.23req/s] [内存消耗：1,443.85kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:15:32+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032001s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:15:42+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.040002s] [吞吐率：25.00req/s] [内存消耗：1,444.53kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:15:43+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:16:02+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052003s] [吞吐率：19.23req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:16:02+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:16:31+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.051003s] [吞吐率：19.61req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:16:31+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:16:32+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,444.53kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:16:33+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:17:01+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:17:01+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.042003s] [吞吐率：23.81req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:17:19+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:17:19+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:17:34+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.055003s] [吞吐率：18.18req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:17:35+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:17:45+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.047003s] [吞吐率：21.28req/s] [内存消耗：1,562.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:17:45+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:17:46+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.046003s] [吞吐率：21.74req/s] [内存消耗：1,444.53kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:17:46+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.040003s] [吞吐率：25.00req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:19:16+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.049003s] [吞吐率：20.41req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:17+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:19:49+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:50+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.031002s] [吞吐率：32.26req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:19:50+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.058003s] [吞吐率：17.24req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:50+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:19:51+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.060004s] [吞吐率：16.67req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:51+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.064003s] [吞吐率：15.62req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:51+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.058004s] [吞吐率：17.24req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:19:52+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.044003s] [吞吐率：22.73req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:19:52+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.030002s] [吞吐率：33.33req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:23:31+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:23:31+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.037002s] [吞吐率：27.03req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:23:32+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.047003s] [吞吐率：21.28req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:23:32+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:23:43+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:23:43+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:27:16+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.063003s] [吞吐率：15.87req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:27:16+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:28:19+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.060003s] [吞吐率：16.67req/s] [内存消耗：1,910.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:28:19+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.040002s] [吞吐率：25.00req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:28:21+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,785.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:28:22+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:30:10+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.051003s] [吞吐率：19.61req/s] [内存消耗：1,910.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:30:10+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:30:42+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.051002s] [吞吐率：19.61req/s] [内存消耗：1,910.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:30:42+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.044002s] [吞吐率：22.73req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:30:50+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.049002s] [吞吐率：20.41req/s] [内存消耗：1,784.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:30:50+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:30:56+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.049002s] [吞吐率：20.41req/s] [内存消耗：1,910.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:30:57+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.044003s] [吞吐率：22.73req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:31:40+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.056003s] [吞吐率：17.86req/s] [内存消耗：1,910.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:31:41+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.042002s] [吞吐率：23.81req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:32:48+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057004s] [吞吐率：17.54req/s] [内存消耗：1,910.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:32:48+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:32:57+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,910.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:32:57+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:37:52+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,910.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:37:52+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:38:12+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.054003s] [吞吐率：18.52req/s] [内存消耗：1,784.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:38:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:39:20+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.058003s] [吞吐率：17.24req/s] [内存消耗：1,910.53kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:39:20+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:39:25+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.046003s] [吞吐率：21.74req/s] [内存消耗：1,785.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:39:25+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.035002s] [吞吐率：28.57req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:39:26+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,785.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:39:26+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.034002s] [吞吐率：29.41req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:39:37+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,448.35kb] [文件加载：66]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:39:40+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:39:47+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,574.10kb] [文件加载：68]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=4c4gi7rrtrtjtkscuesp3b2qp4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:39:48+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.039002s] [吞吐率：25.64req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:40:11+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.061003s] [吞吐率：16.39req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:40:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:40:12+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.048003s] [吞吐率：20.83req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:40:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.040002s] [吞吐率：25.00req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:40:12+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.050003s] [吞吐率：20.00req/s] [内存消耗：1,781.29kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:40:12+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.033002s] [吞吐率：30.30req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:40:19+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：1,898.84kb] [文件加载：78]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:40:19+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:42:15+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.052003s] [吞吐率：19.23req/s] [内存消耗：1,780.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:42:15+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[2019-05-13T11:42:23+08:00] 127.0.0.1 GET www.mianadmin.net/index.php?s=/user/login/login.html
+[运行时间：0.053003s] [吞吐率：18.87req/s] [内存消耗：1,780.98kb] [文件加载：76]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=fgvjnbgc9qknich1oi3ln83dv4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.mianadmin.net/index.php?s=/user/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.mianadmin.net',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] E:\WWW\mianadmin\application\user\view\login\login.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-05-13T11:42:23+08:00] 127.0.0.1 GET www.mianadmin.net/assets/user/js/swiper.min.js.map
+[运行时间：0.032002s] [吞吐率：31.25req/s] [内存消耗：1,061.69kb] [文件加载：56]
+[ info ] [ LANG ] E:\WWW\mianadmin\thinkphp\lang\zh-cn.php
